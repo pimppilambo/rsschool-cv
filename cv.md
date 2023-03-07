@@ -18,7 +18,7 @@ __Junior Front-end__
 -Programming Languages: Python(Basic)
 -Web Development: HTML/CSS, JavaScript
 -Database Managment: MySQL 
--Other: Git, Scrum
+-Other: Git, Scrum, Jira
 
 ## __Code Example__
 ```  start = 15
