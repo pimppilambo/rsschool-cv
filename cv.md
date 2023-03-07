@@ -14,7 +14,7 @@ __Junior Front-end__
 - LinkedIn:
 - GitHub:
 
-## __Skills
+## __Skills__
 -Programming Languages: Python(Basic)
 -Web Development: HTML/CSS, JavaScript
 -Database Managment: MySQL 
