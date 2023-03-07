@@ -1,5 +1,5 @@
 # __Olha Taianovska__
-*Junior Front-end 
+__Junior Front-end__ 
 
 ## __Education__
 ### __University__
